@@ -1,0 +1,13 @@
+{
+  "name": "express-autoreload",
+  "version": "1.0.0",
+  "description": "Middleware permettant l'intégration de l'endpoint et des fonctionnalités de rechargement automatique de la page, ainsi que la gestion des erreurs de rendu",
+  "main": "index.js",
+  "author": "Alibee by PVP",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "events": "^3.3.0",
+    "express": "^4.19.2"
+  }
+}
