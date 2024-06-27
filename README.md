@@ -15,7 +15,8 @@ Middleware permettant l'intégration de l'endpoint et des fonctionnalités de re
 - **Express AutoReload** permet d'actualiser les pages front (html, ejs...) quand on sauvegarde un fichier de votre projet [Express](https://expressjs.com/)
 - Il permet également de récupérer les erreurs de votre moteur de rendu et de les afficher avec style
 
-![Capture d'écran](https://github.com/Mathieu-PVP/express-autoreload/assets/148555771/a302f013-53c5-4ec1-b252-b9ce526145cf)
+![Capture d'écran](https://github.com/Mathieu-PVP/express-autoreload/assets/148555771/6eb2a87a-a21b-4057-a57e-2ae89510e7ad)
+
 
 ## Installation
 ```
