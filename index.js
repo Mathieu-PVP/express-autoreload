@@ -138,7 +138,7 @@ module.exports = function (req, res, next) {
                     <pre><code></code> <span class="error-blinking-cursor"></span></pre>
                   </p>
                 </div>
-                <p class="error-footer">Powered by <span class="strong">express-autorefresh</span> made by <span class="strong">Alibee</span></p>
+                <p class="error-footer">Powered by <span class="strong">express-autoreload</span> made by <span class="strong">Alibee</span></p>
               </div>
               ${reloadListener}
               <script type="text/javascript">
